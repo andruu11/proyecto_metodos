@@ -1,0 +1,9 @@
+D:\ayudantia\proyectos-visualstudio\proy_metodos_bd\proy_metodos_bd\bin\Debug\proy_metodos_bd.exe.config
+D:\ayudantia\proyectos-visualstudio\proy_metodos_bd\proy_metodos_bd\bin\Debug\proy_metodos_bd.exe
+D:\ayudantia\proyectos-visualstudio\proy_metodos_bd\proy_metodos_bd\bin\Debug\proy_metodos_bd.pdb
+D:\ayudantia\proyectos-visualstudio\proy_metodos_bd\proy_metodos_bd\obj\Debug\proy_metodos_bd.csprojResolveAssemblyReference.cache
+D:\ayudantia\proyectos-visualstudio\proy_metodos_bd\proy_metodos_bd\obj\Debug\proy_estructurado.Form1.resources
+D:\ayudantia\proyectos-visualstudio\proy_metodos_bd\proy_metodos_bd\obj\Debug\proy_estructurado.Properties.Resources.resources
+D:\ayudantia\proyectos-visualstudio\proy_metodos_bd\proy_metodos_bd\obj\Debug\proy_metodos_bd.csproj.GenerateResource.Cache
+D:\ayudantia\proyectos-visualstudio\proy_metodos_bd\proy_metodos_bd\obj\Debug\proy_metodos_bd.exe
+D:\ayudantia\proyectos-visualstudio\proy_metodos_bd\proy_metodos_bd\obj\Debug\proy_metodos_bd.pdb

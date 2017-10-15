@@ -1,0 +1,9 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_estructurado\bin\Debug\proy_estructurado.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_estructurado\bin\Debug\proy_estructurado.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_estructurado\bin\Debug\proy_estructurado.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_estructurado\obj\Debug\proy_estructurado.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_estructurado\obj\Debug\proy_estructurado.Form1.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_estructurado\obj\Debug\proy_estructurado.Properties.Resources.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_estructurado\obj\Debug\proy_estructurado.csproj.GenerateResource.Cache
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_estructurado\obj\Debug\proy_estructurado.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\proy_estructurado\obj\Debug\proy_estructurado.pdb
